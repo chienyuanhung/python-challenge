@@ -5,8 +5,7 @@ import csv
 
 data_path= os.path.join('Resources','budget_data.csv')
 
-#read the csv data
-
+# create list for month, profit, and profit change
 month = []
 profit = []
 profit_change = []
@@ -16,6 +15,7 @@ total_profit_change = 0
 greatest_profit = 0
 greatest_loss = 0
 
+#read the csv data
 with open(data_path, newline = '') as data_file:
     csvreader = csv.reader(data_file, delimiter = ',')
     #remove the header
