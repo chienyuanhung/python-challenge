@@ -2,7 +2,7 @@ import os
 import csv
 import re
 
-#create the path for election_data.csv
+#create the path for the text file
 
 txt_file = 'paragraph_1.txt'
 data_path= os.path.join('raw_data',txt_file)

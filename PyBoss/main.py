@@ -17,7 +17,7 @@ new_state = []
 
 new_data = []
 
-#file name for 
+#file name 
 file_name = ('employee_data.csv')
  
 #state data

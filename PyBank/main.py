@@ -1,7 +1,7 @@
 import os
 import csv
 
-#create the path for election_data.csv
+#create the path for budget_data.csv
 
 data_path= os.path.join('Resources','budget_data.csv')
 

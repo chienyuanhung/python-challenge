@@ -1,6 +1,8 @@
 import os
 import csv
 
+#path for election_data.csv
+
 data_path= os.path.join('Resources','election_data.csv')
 
 candidate_list = [] #list for the candudates
