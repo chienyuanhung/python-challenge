@@ -1,5 +1,5 @@
 # python-challenge
-dealing csv and txt files with python program
+dealing csv and txt files with python programs
 
 ## PyBank
 * Rescouces/bugget_data.csv: the input file -- bank month and profit data
@@ -17,6 +17,5 @@ dealing csv and txt files with python program
 * pypoll_summary.txt: the output file
 
 ## PyParagraph
-* rawdata/paragraph1.txt
-        /paragraph2.txt: the input txt file
+* rawdata/paragraph1.txt and paragraph2.txt: the input txt files
 * main.py: counting the number of sentences, words, and letters
